@@ -1,0 +1,27 @@
+<<<<<<< HEAD
+TITLE : god knows
+full name : tasmiya fathima khanum azeez
+usn : 1wt23cs047
+semester : |||
+section : A
+branch : cse 
+=======
+TITLE : PILOT
+FULL NAME : Tasmiya fathima khanum azeez
+USN : 1WT23CS047
+Semester : 3
+Section : A
+Branch : CSE
+>>>>>>> 0665636 (Updated the contents of aboutMyself.txt file successful)
+year of admission : 2023
+collage name : GITW
+SSLC : SRARSVATHI VIDYA MANDIRA
+PUC : JYOTHI NIVA PRE-UNIVERSITY COLLAGE
+UG DEGREE : IN PROCESS
+
+
+<<<<<<< HEAD
+
+=======
+>>>>>>> 0665636 (Updated the contents of aboutMyself.txt file successful)
+
